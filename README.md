@@ -13,3 +13,14 @@ Costos Médicos: Las lesiones por caídas generan gastos altos en tratamientos m
  
  Lesiones: Aproximadamente el 30-40% de las personas mayores de 65 años sufren caídas anualmente, y un porcentaje considerable de estas caídas resultan en lesiones. 
 Muertes: Las caídas son una de las principales causas de muerte accidental en personas mayores. En Estados Unidos, por ejemplo, se estima que alrededor de 36,000 personas mayores mueren anualmente debido a caídas. 
+
+La solucion que ofrece ProtCad
+
+1. deteccion rapida de las caidas 
+Utiliza el sensor MPU6050 para monitorear continuamente la posición y aceleración del usuario. Al detectar una inclinación que indica una caída, el sistema se activa de inmediato.
+2. Inflado Automático del Airbag:
+Al activarse, un cartucho de CO2 infla rápidamente una bolsa protectora alrededor de áreas vulnerables, como la cadera, amortiguando el impacto y reduciendo el riesgo de lesiones graves.
+3. Protección de Áreas Críticas:
+El diseño del chaleco está enfocado en proteger las zonas más susceptibles a fracturas, lo que ayuda a prevenir lesiones graves en caso de caídas.
+4. Tranquilidad para Usuarios
+proporciona seguridad tanto al usuario como a sus familiares, aliviando la ansiedad relacionada con las caídas y fomentando la independencia en las actividades diarias.
