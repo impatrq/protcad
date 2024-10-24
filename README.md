@@ -90,3 +90,21 @@ FIN.
 Lo visto como presentacion es lo que se encuentra ya en un archivo y se presento en la oniet y se presentara en proximas esposiciones en su formato como power point.
 
 A continuacion la siguiente INFORMACION tambien se encuetra en el informe descriptivo
+
+ALCANCE DE PROTCAD:
+
+Alcance: Delimitar el proyecto, y describir de qué trata:
+PROTCAD es un chaleco de protección, diseñado para minimizar el impacto 
+de caídas y prevenir lesiones graves. El chaleco se activa automáticamente al 
+detectar una caída, inflándose de inmediato para proteger áreas clave.
+Limitaciones del proyecto:
+1. Tamaño único por el momento: Aunque adaptable, actualmente el 
+chaleco está disponible en un solo talle general.
+2. Enfoque en usuarios específicos: Está dirigido principalmente a 
+personas con riesgo de caídas, lo que limita su adopción masiva en 
+personas fuera de estos grupos.
+3. Costo: El precio de producción estimado es de 140 mil pesos, lo que 
+podría limitar su accesibilidad a ciertos mercados.
+El proyecto, aunque en sus fases iniciales, tiene el potencial de ser mejorado 
+con más recursos y tiempo, permitiendo una mayor adaptabilidad y una posible 
+expansión hacia otros sectores o mercados más amplios.
