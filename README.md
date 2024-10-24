@@ -167,9 +167,7 @@ desarrollo de nuevos productos que podrían aplicarse en otras áreas o
 grupos.
 
 En resumen, el impacto de PROTCAD es amplio tanto a nivel social como geográfico, ofreciendo una solución que responde a una necesidad urgente en la prevención de lesiones graves por caídas, con el potencial de beneficiar a individuos y sistemas de salud tanto local como globalmente
-<<<<<<< HEAD
 
-<<<<<<< HEAD
 * Segmento destino (target)
 
 El segmento destino de ProtCad se enfoca principalmente en las siguientes 
@@ -206,8 +204,44 @@ reducir la ansiedad de cuidar a alguien vulnerable a caídas.
 En resumen, ProtCad está dirigido a personas de mediana edad y mayores, así 
 como a aquellos con condiciones médicas específicas que los hacen más 
 propensos a sufrir caídas y lesiones severas.
-=======
-a
->>>>>>> 5b68df7d47f1f242a0cb5ec02d6d892aef9215d4
-=======
->>>>>>> c5e293328647ba96e985481338c70fc2dce8b8aa
+
+* Ámbito de incumbencia (entorno donde se desarrolla) 
+
+El ámbito de incumbencia de ProtCad se centra en varios entornos 
+clave donde este producto podría desarrollarse y tener impacto:
+
+1) Sector de la salud y rehabilitación: ProtCad se inserta dentro 
+de la atención médica preventiva, especialmente en centros de 
+rehabilitación, hospitales, y clínicas donde se tratan personas 
+con condiciones físicas que las hacen propensas a caídas, como 
+pacientes geriátricos o aquellos en procesos postoperatorios. 
+Además, tiene cabida en instituciones especializadas en 
+neurología para personas con Parkinson, epilepsia o esclerosis 
+múltiple.
+2) Hogares de cuidado de ancianos y residencias geriátricas: 
+Los hogares de cuidado, donde la preocupación por caídas es 
+alta, son un entorno esencial para la implementación de 
+ProtCad. En estos espacios, los cuidadores y personal médico 
+buscan maneras de mejorar la seguridad de las personas 
+mayores, y este tipo de tecnología sería un complemento ideal 
+para reducir riesgos.
+3) Entornos domésticos: Para personas que envejecen en sus 
+propios hogares, el chaleco ProtCad ofrece una solución práctica 
+para mejorar su seguridad diaria sin comprometer la 
+independencia. Familias que cuidan a personas mayores o con 
+movilidad reducida podrían implementar el producto como una 
+medida preventiva.
+4) Mercado de dispositivos de asistencia personal y tecnología 
+vestible (wearables): En el contexto de la tecnología aplicada a 
+la salud, ProtCad se integra dentro del mercado de los wearables 
+o dispositivos inteligentes de protección. Este tipo de chaleco 
+airbag, que combina sensores avanzados con mecanismos 
+automáticos de inflado, puede atraer a personas que buscan 
+productos de alta tecnología para mejorar su calidad de vida.
+5) Industrias de protección laboral: Aunque inicialmente se 
+piensa en el sector de la salud, el ámbito laboral para 
+trabajadores de ciertos sectores (construcción, agricultura, etc.) 
+donde el riesgo de caídas es alto también es relevante. ProtCad 
+podría adaptarse a estos entornos, brindando seguridad adicional 
+a los trabajadores.
+
