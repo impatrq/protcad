@@ -77,6 +77,7 @@ En resumen, ProtCad está dirigido a personas de mediana edad y mayores, así co
 * COSTOS:   
 
 En Japon venden este producto por su gran poblacion de adultos mayores, en europa y Estados unidos tambien, en argentina sale aprox   $ 1.000.000
+![]()
 
 Descripcion Tecnica:
  
@@ -250,3 +251,16 @@ En resumen, el entorno donde se desarrolla el proyecto abarca el
 ámbito sanitario, los hogares de cuidado, y el mercado de 
 dispositivos de protección personales, con la posibilidad de 
 expandirse a sectores laborales.
+
+
+Descripción general (Explicar el proyecto) 
+ProtCad es un proyecto innovador que busca desarrollar un chaleco (en 
+principio era un cinturon) de protección tipo airbag, diseñado para activarse en 
+el momento de una caída. Este dispositivo está pensado principalmente para 
+personas mayores o con condiciones médicas que las hagan propensas a caídas, 
+como osteoporosis, Parkinson o problemas de movilidad. El sistema se activa a 
+través de un sensor de movimiento (MPU6050), que detecta la inclinación de la 
+persona y libera aire comprimido para inflar una bolsa que protege la cadera y 
+otras áreas críticas del cuerpo. El objetivo principal es reducir el impacto y el
+riesgo de lesiones graves, proporcionando seguridad y tranquilidad a los 
+usuarios y sus familias.
