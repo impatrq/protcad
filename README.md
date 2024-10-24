@@ -76,3 +76,9 @@ En resumen, ProtCad está dirigido a personas de mediana edad y mayores, así co
 
 En Japon venden este producto por su gran poblacion de adultos mayores, en europa y Estados unidos tambien, en argentina sale aprox   $ 1.000.000
 
+Descripcion Tecnica:
+ 
+Sensores principales que utilizamos: 
+
+* MPU6050: Cuenta con un giroscopo con 3 ejes y un acelerometro de 3 ejes.
+* RASPBERRY PICO: Trabajamos con un codigo de lenguaje en C.
