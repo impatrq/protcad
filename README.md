@@ -32,8 +32,12 @@ Dar protección, seguridad, minimizar el riesgo de lesiones graves por caídas e
 
 2. Detección Precisa de Caídas: Tener un sistema seguro y con la mejor presicion.
 
-3. Facilitar la Independencia
+3. Facilitar la Independencia.
 
-4. Tranquilidad para Cuidadores y Familiares
+4. Tranquilidad para Cuidadores y Familiares.
 
-5. Evaluación y Mejora Continua
+5. Evaluación y Mejora Continua.
+
+Publico Objetivo:
+
+En Argentina el 15,7% de la poblacion son adultos mayores que es nuestro principal interes desp estan las personas en reabilitacion.
