@@ -141,3 +141,13 @@ oportunidad de participación en la sociedad.
 
 {Creado en china, desarrollado en EE. UU, disponibles en mercados europeos, america del norte, en Italia, Se espera que su adopción aumente a medida que se vuelvan más accesibles, particularmente en sociedades que envejecen como Japón, Estados Unidos y partes de Europa.}
 
+* Impacto Geográfico 
+
+El impacto geográfico de PROTCAD puede ser relevante tanto a nivel local como global:
+
+1. Impacto Nacional: El proyecto es una innovación que, hasta ahora, no ha sido producida ni distribuida a nivel nacional. Al implementarse en un mercado local, podría cubrir una necesidad significativa en países o regiones con poblaciones envejecidas o con altos índices de 
+enfermedades crónicas que afectan la movilidad, como ocurre en muchos países latinoamericanos, incluido Argentina.
+
+2. Impacto Global: A largo plazo, PROTCAD tiene potencial para 
+expandirse internacionalmente, ya que el envejecimiento de la población es una tendencia mundial, y con ello aumenta el riesgo de caídas y 
+lesiones graves. Países con un mayor porcentaje de personas mayores, como Japón o algunos países de Europa, serían mercados donde este tipo de tecnología podría tener una alta demanda.
