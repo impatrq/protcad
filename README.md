@@ -24,3 +24,6 @@ Al activarse, un cartucho de CO2 infla rápidamente una bolsa protectora alreded
 El diseño del chaleco está enfocado en proteger las zonas más susceptibles a fracturas, lo que ayuda a prevenir lesiones graves en caso de caídas.
 4. Tranquilidad para Usuarios
 proporciona seguridad tanto al usuario como a sus familiares, aliviando la ansiedad relacionada con las caídas y fomentando la independencia en las actividades diarias.
+
+OBJETIVOS:
+Dar protección, seguridad, minimizar el riesgo de lesiones graves por caídas en personas mayores y con condiciones de movilidad reducida, mejorando así su seguridad y calidad de vida.
