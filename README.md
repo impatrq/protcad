@@ -245,3 +245,8 @@ donde el riesgo de caídas es alto también es relevante. ProtCad
 podría adaptarse a estos entornos, brindando seguridad adicional 
 a los trabajadores.
 
+
+En resumen, el entorno donde se desarrolla el proyecto abarca el 
+ámbito sanitario, los hogares de cuidado, y el mercado de 
+dispositivos de protección personales, con la posibilidad de 
+expandirse a sectores laborales.
