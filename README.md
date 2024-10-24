@@ -108,3 +108,34 @@ podría limitar su accesibilidad a ciertos mercados.
 El proyecto, aunque en sus fases iniciales, tiene el potencial de ser mejorado 
 con más recursos y tiempo, permitiendo una mayor adaptabilidad y una posible 
 expansión hacia otros sectores o mercados más amplios.
+
+
+. Temática o Impacto de PROTCAD: Bienestar y Salud / Inovacion
+
+* Impacto Social:
+
+PROTCAD tiene un enfoque directo en la seguridad personal y el bienestar
+de personas vulnerables, brindando protección a quienes tienen un mayor riesgo 
+de sufrir caídas, como adultos mayores, personas en rehabilitación, y aquellos 
+con condiciones médicas que afectan su movilidad. 
+
+Su impacto social es significativo por varias razones:
+1. Prevención de lesiones graves: Al reducir el riesgo de fracturas o daños 
+en la cabeza, la columna y la cadera, PROTCAD contribuye a mejorar la 
+salud y calidad de vida de los usuarios, disminuyendo las posibles 
+secuelas físicas de una caída.
+2. Tranquilidad para el usuario y su entorno: Muchas personas, 
+especialmente familiares o cuidadores, viven con la constante 
+preocupación de que un ser querido sufra una caída grave. PROTCAD 
+ofrece una solución que genera confianza y paz mental tanto para los 
+usuarios como para sus seres cercanos.
+3. Mejor calidad de vida: El chaleco permite que los usuarios mantengan 
+su independencia y realicen sus actividades cotidianas sin temor a sufrir 
+un accidente. Esto es crucial para mantener la autonomía y reducir la 
+dependencia de terceros, lo cual es particularmente importante para 
+personas mayores.
+4. Inclusión: PROTCAD se dirige a diversos grupos que enfrentan 
+dificultades diarias debido a su condición física, creando un dispositivo 
+que ayuda a mejorar la seguridad y el movimiento, dándoles una mayor 
+oportunidad de participación en la sociedad.
+
