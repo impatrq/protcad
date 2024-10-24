@@ -88,3 +88,5 @@ Sensores principales que utilizamos:
 FIN.
 
 Lo visto como presentacion es lo que se encuentra ya en un archivo y se presento en la oniet y se presentara en proximas esposiciones en su formato como power point.
+
+A continuacion la siguiente INFORMACION tambien se encuetra en el informe descriptivo
