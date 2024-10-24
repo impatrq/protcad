@@ -41,3 +41,33 @@ Dar protección, seguridad, minimizar el riesgo de lesiones graves por caídas e
 Publico Objetivo:
 
 En Argentina el 15,7% de la poblacion son adultos mayores que es nuestro principal interes desp estan las personas en reabilitacion.
+
+El segmento destino de ProtCad se enfoca principalmente en las siguientes 
+usuarios:
+
+1. Personas mayores de 40 años: A partir de esta edad, los huesos 
+tienden a volverse más frágiles debido a la disminución de la densidad 
+ósea y la pérdida de calcio. Esto las hace más vulnerables a fracturas 
+graves en caso de caídas, especialmente en la cadera. Este grupo es el 
+más susceptible a sufrir consecuencias graves, como dificultades de 
+movilidad, pérdida de independencia, o incluso muerte por 
+complicaciones derivadas de una fractura de cadera.
+
+2. Personas en rehabilitación: Aquellas que se recuperan de una cirugía 
+o lesión y que necesitan protección adicional para evitar recaídas que 
+puedan agravar su estado. ProtCad ofrecería una capa extra de 
+seguridad durante el proceso de recuperación.
+
+3. Personas con condiciones neurológicas como epilepsia, Parkinson 
+o esclerosis múltiple: Estos usuarios están más expuestos a caídas 
+debido a problemas de coordinación y equilibrio que son comunes en 
+estas condiciones.
+
+4. Personas con enfermedades crónicas como osteoporosis o diabetes 
+con neuropatía periférica: Estas condiciones incrementan el riesgo 
+de fracturas o lesiones graves en caso de caídas, lo que convierte a ProtCad en una herramienta de protección valiosa para evitar daños mayores.
+
+5. Personas que cuidan a sus seres queridos: Además de los usuarios directos, este segmento incluye a quienes tienen a su cargo personas mayores o con discapacidades, y que buscan mejorar la seguridad y reducir la ansiedad de cuidar a alguien vulnerable a caídas.
+
+
+En resumen, ProtCad está dirigido a personas de mediana edad y mayores, así como a aquellos con condiciones médicas específicas que los hacen más propensos a sufrir caídas y lesiones severas.
