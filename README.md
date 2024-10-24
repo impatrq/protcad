@@ -139,3 +139,5 @@ dificultades diarias debido a su condición física, creando un dispositivo
 que ayuda a mejorar la seguridad y el movimiento, dándoles una mayor 
 oportunidad de participación en la sociedad.
 
+{Creado en china, desarrollado en EE. UU, disponibles en mercados europeos, america del norte, en Italia, Se espera que su adopción aumente a medida que se vuelvan más accesibles, particularmente en sociedades que envejecen como Japón, Estados Unidos y partes de Europa.}
+
