@@ -1,5 +1,7 @@
 # protcad
 
+PRESENTACION DEL PROYECTO:
+
 Es un proyecto, desarrolamos un sistema de seguridad automatico,
 pensado principalmente para adultos mayores, para personals en
 reabilitacion, o que sufren de anguna enfermedad o son epilepticos
@@ -82,3 +84,7 @@ Sensores principales que utilizamos:
 
 * MPU6050: Cuenta con un giroscopo con 3 ejes y un acelerometro de 3 ejes.
 * RASPBERRY PICO: Trabajamos con un codigo de lenguaje en C.
+
+FIN.
+
+Lo visto como presentacion es lo que se encuentra ya en un archivo y se presento en la oniet y se presentara en proximas esposiciones en su formato como power point.
