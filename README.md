@@ -165,3 +165,5 @@ desarrollo de nuevos productos que podrían aplicarse en otras áreas o
 grupos.
 
 En resumen, el impacto de PROTCAD es amplio tanto a nivel social como geográfico, ofreciendo una solución que responde a una necesidad urgente en la prevención de lesiones graves por caídas, con el potencial de beneficiar a individuos y sistemas de salud tanto local como globalmente
+
+a
