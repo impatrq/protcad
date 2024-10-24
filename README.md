@@ -151,3 +151,17 @@ enfermedades crónicas que afectan la movilidad, como ocurre en muchos países l
 2. Impacto Global: A largo plazo, PROTCAD tiene potencial para 
 expandirse internacionalmente, ya que el envejecimiento de la población es una tendencia mundial, y con ello aumenta el riesgo de caídas y 
 lesiones graves. Países con un mayor porcentaje de personas mayores, como Japón o algunos países de Europa, serían mercados donde este tipo de tecnología podría tener una alta demanda.
+
+* Otros Impactos Potenciales
+
+• Sector salud: PROTCAD puede reducir la demanda en los sistemas de 
+salud pública y privada al disminuir el número de hospitalizaciones 
+relacionadas con caídas, fracturas y cirugías resultantes de accidentes en 
+personas mayores o en rehabilitación.
+• Innovación tecnológica: Al ser un producto que involucra tecnología 
+avanzada (sensores, válvulas, CO2), PROTCAD impulsa la innovación
+en el campo de los dispositivos de seguridad personal, contribuyendo al 
+desarrollo de nuevos productos que podrían aplicarse en otras áreas o 
+grupos.
+
+En resumen, el impacto de PROTCAD es amplio tanto a nivel social como geográfico, ofreciendo una solución que responde a una necesidad urgente en la prevención de lesiones graves por caídas, con el potencial de beneficiar a individuos y sistemas de salud tanto local como globalmente
