@@ -27,3 +27,13 @@ proporciona seguridad tanto al usuario como a sus familiares, aliviando la ansie
 
 OBJETIVOS:
 Dar protección, seguridad, minimizar el riesgo de lesiones graves por caídas en personas mayores y con condiciones de movilidad reducida, mejorando así su seguridad y calidad de vida.
+
+1. Prevención de Lesiones:Que nuestros usuarios puedan tener una mejor calidad de vida.
+
+2. Detección Precisa de Caídas: Tener un sistema seguro y con la mejor presicion.
+
+3. Facilitar la Independencia
+
+4. Tranquilidad para Cuidadores y Familiares
+
+5. Evaluación y Mejora Continua
