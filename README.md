@@ -71,3 +71,8 @@ de fracturas o lesiones graves en caso de caídas, lo que convierte a ProtCad en
 
 
 En resumen, ProtCad está dirigido a personas de mediana edad y mayores, así como a aquellos con condiciones médicas específicas que los hacen más propensos a sufrir caídas y lesiones severas.
+
+* COSTOS:   
+
+En Japon venden este producto por su gran poblacion de adultos mayores, en europa y Estados unidos tambien, en argentina sale aprox   $ 1.000.000
+
