@@ -77,7 +77,7 @@ En resumen, ProtCad está dirigido a personas de mediana edad y mayores, así co
 * COSTOS:   
 
 En Japon venden este producto por su gran poblacion de adultos mayores, en europa y Estados unidos tambien, en argentina sale aprox   $ 1.000.000
-![]()
+![]() 
 
 Descripcion Tecnica:
  
@@ -361,3 +361,54 @@ int main(void)
 }
 
 Protcad es un chaleco de seguridad tipo airbag que se infla al reconocer que el usuario se esta por caer. Esta dirigido a personas en rehabilitacion, gente mayor, y personas que sufran algun tipo de condicion propensa a sufrir caidas. El sistema consta de un sensor MPU6050 acelerometro y giroscopo que sensa constantemente la condicion del chaleco, en el segundo que la persona se cae, este manda una señal que activa un sistema de abertura de cartuchos de aire comprimido que inflan el airbag que se encuentra dentro del chaleco, haciendo que este este quede totalmente inflado y pueda reducir considerablemente el impacto de la persona contra el suelo
+
+
+FUNCIONALIDADES Y BENEFICIOS: 
+
+ Funcionalidades (Qué hace?)  
+
+Detección de Caídas: Utiliza un sensor MPU6050 que funciona como giróscopo y acelerómetro para detectar cambios en la posición del usuario, estos son monitoreados continuamente. Cuando el sensor detecta una inclinación que supera los límites predefinidos (indicando una posible caída), activa el sistema de protección. 
+
+ 
+
+Activación Automática del Airbag: Al detectar una caída, el sistema abre un cartucho de aire comprimido que infla rápidamente una bolsa alrededor de la cadera, amortiguando el impacto y reduciendo el riesgo de lesiones graves. 
+
+ 
+
+Protección de Zonas Vulnerables: El diseño del chaleco está enfocado en proteger principalmente la cadera, una de las áreas más susceptibles a fracturas en personas mayores o con movilidad reducida, pero también ofrece protección a otras zonas del cuerpo según el diseño. 
+
+ 
+
+Indicadores Visuales: Dispone de luces LED para indicar el estado del dispositivo y alertar sobre el funcionamiento del sensor, mostrando si un eje (X, Y o Z) ha superado los límites de inclinación. 
+
+ 
+
+Botón de Encendido y Apagado: Para mayor control, el usuario puede activar o desactivar el dispositivo cuando lo considere necesario. 
+
+ 
+
+ 
+
+ 
+
+Beneficios (Por qué es bueno el proyecto?)  
+
+ 
+
+1. Prevención de Lesiones: Al proporcionar un sistema de protección tipo airbag que se activa durante una caída, ProtCad reduce significativamente el riesgo de fracturas en la cadera y otras lesiones graves en personas mayores o con problemas de movilidad, evitando hospitalizaciones prolongadas y complicaciones de salud. 
+
+  
+
+2. Mayor Seguridad y Tranquilidad: Al proteger áreas vulnerables como la cadera, brinda seguridad tanto al usuario como a su entorno cercano (familia, cuidadores), aliviando el miedo y la ansiedad relacionados con caídas. 
+
+  
+
+3. Innovación y Accesibilidad: El uso de sensores y tecnología de inflado rápida permite una solución avanzada y eficiente que no requiere de intervenciones médicas complicadas. Además, su diseño adaptable lo hace accesible para una amplia gama de personas. 
+
+  
+
+4. Mejora de la Calidad de Vida: Al reducir el impacto de las caídas, ProtCad permite que las personas mayores o en rehabilitación puedan moverse con más libertad, confianza e independencia, promoviendo una vida más activa y saludable. 
+
+  
+
+5. Costo Eficiente: En comparación con los costos médicos de tratar fracturas y otros daños, el uso preventivo de ProtCad es una inversión rentable a largo plazo para evitar gastos médicos elevados. 
