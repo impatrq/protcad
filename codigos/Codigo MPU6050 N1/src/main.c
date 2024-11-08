@@ -67,17 +67,16 @@ int main(void)
         printf("Ax = %.2f, Ay = %.2f, Az = %.2f\n", ax, ay, az);
         printf("Inclinacion en X: %.2f\tInclinacion en Y: %.2f\n", accel_ang_x, accel_ang_y);
         printf("Temp = %d\n", temp);
+        
+        // Verificar si ambos ejes están dentro del rango de ±40 grados
+        bool leds_on = (fabs(accel_ang_x) < 40.0) && (fabs(accel_ang_y) < 40.0);
+        
+        // Controlar los LEDs
+        gpio_put(LED_PIN_X, leds_on);  // Enciende el LED rojo si ambos ejes cumplen la condición
+        gpio_put(LED_PIN_Y, leds_on);  // Enciende el LED verde si ambos ejes cumplen la condición
 
-        // Verificar si la inclinación en X supera el límite y controlar el LED rojo
-        bool led_x_on = fabs(accel_ang_x) < X_LIMIT;
-        gpio_put(LED_PIN_X, led_x_on);
-
-        // Verificar si la inclinación en Y supera el límite y controlar el LED verde
-        bool led_y_on = fabs(accel_ang_y) < Y_LIMIT;
-        gpio_put(LED_PIN_Y, led_y_on);
-
-        // Controlar la válvula que se abre si cualquier LED está encendido
-        if (led_x_on || led_y_on) {
+        // Controlar la válvula que se abre si ambos LEDs están encendidos
+        if (leds_on) {
             gpio_put(LED_PIN_VALVE, 0);  // Abrir la válvula
         } else {
             gpio_put(LED_PIN_VALVE, 1);  // Cerrar la válvula
